@@ -95,3 +95,5 @@ The full application is available at:
 
 The full application is available at:
 <https://github.com/GenieFramework/Stipple-Demo-IrisClustering>
+
+[![Run on Repl.it](https://repl.it/badge/github/GenieFramework/Stipple.jl)](https://repl.it/github/GenieFramework/Stipple.jl)
